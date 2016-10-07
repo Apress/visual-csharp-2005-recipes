@@ -1,0 +1,7 @@
+bin\Debug\Recipe10-18Client.exe
+bin\Debug\Recipe10-18Client.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe10-18Client.exe
+obj\Debug\Recipe10-18Client.pdb
+bin\Debug\Recipe10-16.dll
+bin\Debug\Recipe10-16.pdb

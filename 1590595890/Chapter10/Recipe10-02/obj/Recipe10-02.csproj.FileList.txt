@@ -1,0 +1,5 @@
+bin\Debug\Recipe10-02.exe
+bin\Debug\Recipe10-02.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe10-02.exe
+obj\Debug\Recipe10-02.pdb

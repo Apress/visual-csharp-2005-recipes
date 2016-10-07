@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Apress.VisualCSharpRecipes.Chapter07.Recipe07_02.resources
+obj\Debug\Recipe07-02.csproj.GenerateResource.Cache
+bin\Debug\Recipe07-02.exe
+bin\Debug\Recipe07-02.pdb
+obj\Debug\Recipe07-02.exe
+obj\Debug\Recipe07-02.pdb

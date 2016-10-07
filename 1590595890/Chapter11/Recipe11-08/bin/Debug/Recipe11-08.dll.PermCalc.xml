@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<Assembly>
+  <Namespace Name="Apress">
+    <Namespace Name="VisualCSharpRecipes">
+      <Namespace Name="Chapter11">
+        <Type Name="Recipe11_08">
+          <Method Sig="instance void SomeProtectedMethod()" />
+          <Method Sig="instance void .ctor()" />
+        </Type>
+      </Namespace>
+    </Namespace>
+  </Namespace>
+</Assembly>

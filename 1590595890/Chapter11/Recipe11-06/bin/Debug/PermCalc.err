@@ -1,0 +1,20 @@
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'file:///C:\Data\VisualCSharpRecipes\Chapter11\Recipe11-06\bin\Debug\Recipe11-06.exe' or one of its dependencies. The system cannot find the file specified.
+File name: 'file:///C:\Data\VisualCSharpRecipes\Chapter11\Recipe11-06\bin\Debug\Recipe11-06.exe'
+   at System.Reflection.Assembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, Assembly locationHint, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, Boolean forIntrospection)
+   at System.Reflection.Assembly.InternalLoad(AssemblyName assemblyRef, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection)
+   at System.Security.Tools.PermEngine.expandAssemblyPath(String path)
+   at System.Security.Tools.PermEngine.AddAssembliesToApplication(String[] applicationAssemblies, String[] assembliesToAnalyze)
+   at System.Security.Tools.PermEngine..ctor(Byte[] blob)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+   --- End of inner exception stack trace ---
+   at System.AppDomain.CreateInstanceFromAndUnwrap(String assemblyName, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at System.Security.Tools.RequiredPermissions.StartAnalysis()
+   at System.Security.Tools.RequiredPermissions.AnalyzeApplicationInBackground()
+   at System.Security.Tools.PermissionsCalculator.Analyze(String[] aAssemblyNames, AnalyzeFlags flags)
+   at System.Security.Tools.PermissionsCalculator.Main(String[] args)

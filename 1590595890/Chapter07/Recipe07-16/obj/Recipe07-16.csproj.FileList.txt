@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Apress.VisualCSharpRecipes.Chapter07.Recipe07_16.resources
+obj\Debug\Recipe07-16.csproj.GenerateResource.Cache
+bin\Debug\MOON01.ICO
+bin\Debug\MOON02.ICO
+bin\Debug\MOON03.ICO
+bin\Debug\MOON04.ICO
+bin\Debug\MOON05.ICO
+bin\Debug\MOON06.ICO
+bin\Debug\MOON07.ICO
+bin\Debug\MOON08.ICO
+bin\Debug\Recipe07-16.exe
+bin\Debug\Recipe07-16.pdb
+obj\Debug\Recipe07-16.exe
+obj\Debug\Recipe07-16.pdb

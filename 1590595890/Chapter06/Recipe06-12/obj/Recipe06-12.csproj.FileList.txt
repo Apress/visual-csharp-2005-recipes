@@ -1,0 +1,5 @@
+bin\Release\Recipe06-12.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Apress.VisualCSharpRecipes.Chapter06.TransformXml.resources
+obj\Release\Recipe06-12.csproj.GenerateResource.Cache
+obj\Release\Recipe06-12.exe

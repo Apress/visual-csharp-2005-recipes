@@ -1,0 +1,8 @@
+bin\Debug\Recipe10-16Host.exe.config
+bin\Debug\Recipe10-16Host.exe
+bin\Debug\Recipe10-16Host.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe10-16Host.exe
+obj\Debug\Recipe10-16Host.pdb
+bin\Debug\Recipe10-16.dll
+bin\Debug\Recipe10-16.pdb

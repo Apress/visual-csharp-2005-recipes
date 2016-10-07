@@ -1,0 +1,12 @@
+bin\Debug\Recipe06-01.exe
+bin\Debug\Recipe06-01.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Recipe06_01.XmlTreeDisplay.resources
+obj\Debug\Recipe06-01.csproj.GenerateResource.Cache
+obj\Debug\Recipe06-01.exe
+obj\Debug\Recipe06-01.pdb
+bin\Release\Recipe06-01.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Apress.VisualCSharpRecipes.Chapter06.XmlTreeDisplay.resources
+obj\Release\Recipe06-01.csproj.GenerateResource.Cache
+obj\Release\Recipe06-01.exe

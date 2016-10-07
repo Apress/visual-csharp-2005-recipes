@@ -1,0 +1,85 @@
+﻿Installing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Installing service Recipe 14_06 Service...
+Service Recipe 14_06 Service has been successfully installed.
+Creating EventLog source Recipe 14_06 Service in log Application...
+Committing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Uninstalling assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Removing EventLog source Recipe 14_06 Service.
+Service Recipe 14_06 Service is being removed from the system...
+Service Recipe 14_06 Service was successfully removed from the system.
+Installing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Installing service Recipe 14_06 Service...
+Service Recipe 14_06 Service has been successfully installed.
+Creating EventLog source Recipe 14_06 Service in log Application...
+Committing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Uninstalling assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Removing EventLog source Recipe 14_06 Service.
+Service Recipe 14_06 Service is being removed from the system...
+Service Recipe 14_06 Service was successfully removed from the system.
+Attempt to stop service Recipe 14_06 Service.
+Installing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Installing service Recipe 14_06 Service...
+Service Recipe 14_06 Service has been successfully installed.
+Creating EventLog source Recipe 14_06 Service in log Application...
+Committing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Uninstalling assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Removing EventLog source Recipe 14_06 Service.
+Service Recipe 14_06 Service is being removed from the system...
+Service Recipe 14_06 Service was successfully removed from the system.
+Installing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Installing service Recipe 14_06 Service...
+Service Recipe 14_06 Service has been successfully installed.
+Creating EventLog source Recipe 14_06 Service in log Application...
+Committing assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Uninstalling assembly 'C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.exe
+   logfile = C:\Data\VisualCSharpRecipes\Chapter14\Recipe14-07\bin\Debug\Recipe14-07.InstallLog
+Removing EventLog source Recipe 14_06 Service.
+Service Recipe 14_06 Service is being removed from the system...
+Service Recipe 14_06 Service was successfully removed from the system.

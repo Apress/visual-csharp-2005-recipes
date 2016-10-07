@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<Sandbox>
+  <PermissionSet version="1" class="System.Security.PermissionSet">
+    <IPermission Write="C:\Data" version="1" class="System.Security.Permissions.FileIOPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <IPermission version="1" class="System.Security.Permissions.SecurityPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Flags="Execution" />
+    <IPermission version="1" class="System.Security.Permissions.UIPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Unrestricted="true" />
+    <IPermission version="1" class="System.Net.SocketPermission, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Unrestricted="true" />
+  </PermissionSet>
+</Sandbox>

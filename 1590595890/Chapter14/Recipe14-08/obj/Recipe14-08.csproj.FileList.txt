@@ -1,0 +1,8 @@
+bin\Debug\Recipe14-08.exe
+bin\Debug\Recipe14-08.pdb
+bin\Debug\Interop.IWshRuntimeLibrary.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.IWshRuntimeLibrary.dll
+obj\Debug\Recipe14-08.csproj.ResolveComReference.cache
+obj\Debug\Recipe14-08.exe
+obj\Debug\Recipe14-08.pdb

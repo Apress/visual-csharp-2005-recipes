@@ -1,0 +1,3 @@
+bin\Release\Recipe06-05.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Recipe06-05.exe

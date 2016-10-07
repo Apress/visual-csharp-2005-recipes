@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Apress.VisualCSharpRecipes.Chapter07.Recipe07_09.resources
+obj\Debug\Recipe07-09.csproj.GenerateResource.Cache
+bin\Debug\Recipe07-09.exe
+bin\Debug\Recipe07-09.pdb
+obj\Debug\Recipe07-09.exe
+obj\Debug\Recipe07-09.pdb
+bin\Debug\words.txt

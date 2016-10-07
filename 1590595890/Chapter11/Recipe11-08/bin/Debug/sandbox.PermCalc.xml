@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Sandbox>
+  <PermissionSet version="1" class="System.Security.PermissionSet">
+    <IPermission version="1" class="System.Security.Permissions.SecurityPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Flags="Execution" />
+    <IPermission Window="SafeSubWindows" Clipboard="OwnClipboard" version="1" class="System.Security.Permissions.UIPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  </PermissionSet>
+</Sandbox>

@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Recipe07-13.exe
+bin\Debug\Recipe07-13.pdb
+bin\Debug\en\Recipe07-13.resources.dll
+bin\Debug\fr\Recipe07-13.resources.dll
+obj\Debug\Apress.VisualCSharpRecipes.Chapter07.Recipe07_13.resources
+obj\Debug\Recipe07-13.csproj.GenerateResource.Cache
+obj\Debug\Apress.VisualCSharpRecipes.Chapter07.Recipe07_13.en.resources
+obj\Debug\Apress.VisualCSharpRecipes.Chapter07.Recipe07_13.fr.resources
+obj\Debug\en\Recipe07-13.resources.dll
+obj\Debug\fr\Recipe07-13.resources.dll
+obj\Debug\Recipe07-13.exe
+obj\Debug\Recipe07-13.pdb
